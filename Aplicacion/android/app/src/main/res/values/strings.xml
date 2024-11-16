@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="accessibility_service_description">Servicio de accesibilidad para Protect</string>
+</resources>
